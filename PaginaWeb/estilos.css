@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 
+    'Poppins';
+
+}
+
+a {
+    text-decoration: none;   
+}
+
+li {
+    list-style: none;
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+header .contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul li a {
+    color: #000000;
+    margin: 0 80px; 
+}
+
+
+
+header {
+    background-color: #D1F2EB;
+   
+
+}
+
+.titular{
+    color:#fff;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+h1 {
+    font-size: 100px;
+    line-height: 130px;
+    margin: 0;
+}
+
+h2{
+    font-size: 40px;
+    line-height: 50px;
+    margin: 0;
+
+}
+
+h3{
+    font-size: 50px;
+    line-height: 50px;
+    margin: auto;
+
+}
+
+h4{
+    font-size: 50px;
+    line-height: 50px;
+    margin: center;
+
+
+}
+
+p{
+    font-size: 50px;
+    line-height: 50px;
+    margin: auto;
+}
+
+
+.titutal p {
+    background: ·fff;
+    color: #000;
+    padding: 20px 40px;
+}
+
+.titular a {
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 200px;
+
+}
+
+#imagen{
+    background-color: red;
+}
+
+section{
+    background-color: #17A589;
+    text-align: center;
+}
+
+.divContenedor{
+    background-color: azure;
+    display: inline-block;
+    margin: 3% 2%;
+    width: 20%;
+}
+
+.divContenedor2{
+    background-color:#D1F2EB;
+    display: inline-block;
+    margin: 1% 1%;
+    width: 22%;
+    text-size-adjust: 10;
+}
+
+
+.divImagen img{
+    margin-top: 10% ;
+    width: 70%;
+    height: 60%;
+}
+.divTexto{
+    width: 100%;
+    
+}
+
+
+.imgredonda {
+    width: 500px;
+    height: 300px;
+    border-radius:160px;
+    border:10px solid #666;
+}
+
+.imgredonda2 {
+    width: 300px;
+    height: 300px;
+    border-radius:160px;
+    border:10px solid #666;
+}
+
+#redonda {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border: solid 3px#17A589;
+    overflow:hidden; /* Evitar que el contenido se visualice fuera del borde*/ç
+}
+
+
+.color0{
+    background-color: #D1F2EB ;
+    
+}
+
+
+.color1 {
+    background-color:#D1F2EB;
+    color: white;
+}
+
+
+.color2 {
+    background-color:#17A589 ;
+    color: white;
+}
+
+
+.color3 {
+    background-color: #D1F2EB;
+    color: white;
+    
+}
+
+.color4 {
+    background-color:#17A589 ;
+    color: white;
+}
+
+.color5 {
+    background-color: #D1F2EB;
+    color: white;
+}
+
+.color6 {
+    background-color:#17A589;
+    color: white;
+}
+
+.color7 {
+    background-color: #D1F2EB;
+    color: white;
+}
+
+.color8 {
+    background-color:#17A589;
+    color: white;
+}
+
+.color9 {
+    background-color: #D1F2EB;
+    color: white;
+}
